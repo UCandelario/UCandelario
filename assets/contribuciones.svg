@@ -122,7 +122,7 @@
 <rect class="c" x="633" y="26" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.08s"/>
 <rect class="c" x="645" y="26" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.12s"/>
 <rect class="a" x="657" y="26" width="10" height="10" rx="2" fill="#0a3d62" style="animation-delay:2.16s"/>
-<rect class="c" x="669" y="26" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.2s"/>
+<rect class="a" x="669" y="26" width="10" height="10" rx="2" fill="#1565a8" style="animation-delay:2.2s"/>
 <rect class="c" x="45" y="38" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:0.09s"/>
 <rect class="a" x="57" y="38" width="10" height="10" rx="2" fill="#0a3d62" style="animation-delay:0.13s"/>
 <rect class="c" x="69" y="38" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:0.17s"/>
@@ -175,6 +175,7 @@
 <rect class="a" x="633" y="38" width="10" height="10" rx="2" fill="#2c9cdb" style="animation-delay:2.08s"/>
 <rect class="a" x="645" y="38" width="10" height="10" rx="2" fill="#2c9cdb" style="animation-delay:2.12s"/>
 <rect class="a" x="657" y="38" width="10" height="10" rx="2" fill="#2c9cdb" style="animation-delay:2.16s"/>
+<rect class="c" x="669" y="38" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.2s"/>
 <rect class="c" x="45" y="50" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:0.09s"/>
 <rect class="c" x="57" y="50" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:0.13s"/>
 <rect class="c" x="69" y="50" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:0.17s"/>
@@ -383,7 +384,7 @@
 <rect class="c" x="633" y="86" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.08s"/>
 <rect class="c" x="645" y="86" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.12s"/>
 <rect class="a" x="657" y="86" width="10" height="10" rx="2" fill="#0a3d62" style="animation-delay:2.16s"/>
-<text class="s" x="18" y="119">365 contribuciones en el último año</text>
+<text class="s" x="18" y="119">368 contribuciones en el último año</text>
 <text class="t" x="549" y="119">Menos</text>
 <rect x="581" y="110" width="10" height="10" rx="2" fill="#161b22"/>
 <rect x="595" y="110" width="10" height="10" rx="2" fill="#0a3d62"/>
