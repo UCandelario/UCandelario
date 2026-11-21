@@ -386,6 +386,7 @@
 <rect class="c" x="633" y="86" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.08s"/>
 <rect class="c" x="645" y="86" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.12s"/>
 <rect class="c" x="657" y="86" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.16s"/>
+<rect class="c" x="669" y="86" width="10" height="10" rx="2" fill="#161b22" style="animation-delay:2.2s"/>
 <text class="s" x="18" y="119">449 contribuciones en el último año</text>
 <text class="t" x="549" y="119">Menos</text>
 <rect x="581" y="110" width="10" height="10" rx="2" fill="#161b22"/>
