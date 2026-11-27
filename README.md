@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ulises-ramses-candelario-sanchez-a851a02b6"><img src="https://img.shields.io/badge/LinkedIn-ulises--ramses-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<img src="https://img.shields.io/badge/Estado-Trabajando_para_Zonora_AI-2ea44f?style=for-the-badge" alt="Estado"/>&nbsp;<img src="https://img.shields.io/github/followers/UCandelario?label=Seguidores&style=for-the-badge&color=2c9cdb" alt="Seguidores"/>
+<a href="https://www.linkedin.com/in/ulises-ramses-candelario-sanchez-a851a02b6"><img src="https://img.shields.io/badge/LinkedIn-ulises--ramses-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<img src="https://img.shields.io/badge/Estado-Abierto_a_oportunidades-2ea44f?style=for-the-badge" alt="Estado"/>&nbsp;<img src="https://img.shields.io/github/followers/UCandelario?label=Seguidores&style=for-the-badge&color=2c9cdb" alt="Seguidores"/>
 
 </div>
 
@@ -25,7 +25,7 @@ Me gusta que el software sea **claro, probado y útil**. Trabajo con un proceso 
 
 | Ahora mismo | Aprendiendo | Pregúntame sobre |
 |:---|:---|:---|
-| Plataformas multi-servicio, reportes y análisis de datos | IA aplicada, ingeniería de datos y AWS | Full-stack, automatización, Scrum |
+| Construyendo proyectos personales full-stack | IA aplicada, ingeniería de datos y AWS | React, diseño de interfaces, APIs, Scrum |
 
 ---
 
@@ -43,13 +43,19 @@ Me gusta que el software sea **claro, probado y útil**. Trabajo con un proceso 
 
 ## Experiencia
 
-### Practicante de Ingeniería de Software · Plataforma de IA · *Nov 2025 – Actualidad* · Remoto
+### Intern Developer · Zonora AI · *Nov 2025 – Nov 2026* · Remoto
 
-- Desarrollo de funcionalidades **de punta a punta** (datos, API e interfaz) en una plataforma de varios servicios con **NestJS, FastAPI, React/Next.js y TypeScript**, con proceso guiado por especificaciones.
-- Diseño y consulta de modelos relacionales en **PostgreSQL** (Prisma, SQLAlchemy, Alembic), incluyendo **migraciones** y acceso a datos para reportes.
-- Vistas de reportes en el front-end (React, TanStack Query, shadcn/ui) para **seguimiento de metas y resúmenes del embudo de leads**.
-- Análisis de **uso y costos de infraestructura en AWS**, identificando y explicando diferencias entre tableros; trabajo con **SageMaker** y **trabajos programados** para procesamiento recurrente de datos.
-- Pruebas automatizadas, verificaciones de calidad antes de cada pull request y **Docker** para entornos locales.
+**Interfaz y diseño**
+- Desarrollo de pantallas de un panel web con **React, TypeScript y Vite**: tablas, formularios, filtros y vistas de reportes.
+- Componentes reutilizables con **shadcn/ui**, manejo de datos del servidor con **TanStack Query** e **internacionalización** en español e inglés.
+- **Prototipos de interfaz** y maquetas de tableros para validar ideas antes de programarlas.
+
+**Backend y datos**
+- Funcionalidades **de punta a punta** (datos, API e interfaz) en una plataforma de varios servicios con **NestJS y FastAPI**.
+- Modelado y consultas en **PostgreSQL** (Prisma, SQLAlchemy, Alembic), con **migraciones** y trabajos programados.
+
+**Calidad**
+- Pruebas automatizadas, verificaciones antes de cada pull request, revisión de código y **Docker** para entornos locales.
 
 ### Aprendiz de Software · Laboratorio de investigación · *Mar 2024 – Jul 2025*
 
